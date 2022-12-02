@@ -69,7 +69,7 @@
 		<div class="hamburger_close"><i class="fa fa-times" aria-hidden="true"></i></div>
 		<div class="hamburger_menu_content text-right">
 			<ul class="menu_top_nav">
-				<li class="menu_item has-children">
+				<!-- <li class="menu_item has-children">
 					<a href="#">
 						usd
 						<i class="fa fa-angle-down"></i>
@@ -92,7 +92,7 @@
 						<li><a href="#">German</a></li>
 						<li><a href="#">Spanish</a></li>
 					</ul>
-				</li>
+				</li> -->
 				<li class="menu_item has-children">
 					<a href="#">
 						My Account
